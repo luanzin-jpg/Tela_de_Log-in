@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+margin: 0}
+
+#main-log-in{
+width: 100vw;
+height: 100vh;
+display: flex;
+align-items: center;
+justify-content: center;
+background-color: rgb(231, 229, 229);
+flex-direction: column;
+}
+
+#card{
+width: 510px;
+height: auto; 
+background-color: #fff;
+border: 1px solid #999;
+border-radius: 5px;
+display: flex;
+justify-content: center;
+flex-direction: column;
+padding: 20px;
+box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+}
+
+#card h1{
+color: rgb(6, 126, 156);
+border-bottom: solid 1px #ccc;
+text-align: center;
+font-family: "roboto", sans-serif;
+}
+
+.label{
+display: flex;
+align-items: flex-start;
+justify-content: center;
+flex-direction: column;
+margin-left: auto;
+margin-right: auto;
+}
+
+.label > input{
+width: 500px;
+margin: 5px;
+padding: 5px;
+border-radius: 5px;
+border: solid 1px rgba(20, 20, 20, 0.414);
+}
+
+#manter-logado{
+margin: 9px 2px ;
+}
+
+#bnt{width: auto;
+padding: 8px;
+background-color: rgb(6, 126, 156);
+border: none ;
+border-radius: 5px ;
+color: white;
+font-family: "roboto", sans-serif
+}
+
+#cadastro{
+background: non;
+padding: 15px 0px 3px 2px ;
+}
+
+#cadastre-se{
+background-color: rgb(245, 245, 147);
+text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
