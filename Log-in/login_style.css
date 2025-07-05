@@ -58,11 +58,12 @@ background-color: rgb(6, 126, 156);
 border: none ;
 border-radius: 5px ;
 color: white;
-font-family: "roboto", sans-serif
+font-family: "roboto", sans-serif;
+cursor: pointer;
 }
 
 #cadastro{
-background-color: rgb(209, 239, 247);
+background-color: rgb(218, 231, 235);
 padding: 20px 0px 20px 300px ;
 margin: 20px 0px 0px 0px;
 margin-bottom: -20px;
