@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
-
 body{
 margin: 0}
 
@@ -64,8 +62,12 @@ font-family: "roboto", sans-serif
 }
 
 #cadastro{
-background: non;
-padding: 15px 0px 3px 2px ;
+background-color: rgb(209, 239, 247);
+padding: 20px 0px 20px 300px ;
+margin: 20px 0px 0px 0px;
+margin-bottom: -20px;
+margin-left: -20px;
+margin-right: -20px;
 }
 
 #cadastre-se{
